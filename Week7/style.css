@@ -1,0 +1,17 @@
+.col-12{
+    height: 200px;
+}
+
+.col-4{
+    height: 200px;
+}
+
+.box1{
+    background-color: aqua;
+    height: 100px;
+}
+
+.box2{
+    background-color: red;
+    height: 100px;
+}
